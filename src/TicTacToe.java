@@ -1,6 +1,3 @@
-/**
- * Created by Desktop on 30-Mar-17.
- */
 public class TicTacToe {
     public static void main(String[] args) {
         GameBoard myGame = new GameBoard();

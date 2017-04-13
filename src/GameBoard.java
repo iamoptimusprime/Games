@@ -1,7 +1,3 @@
-/**
- * Created by Desktop on 30-Mar-17.
- */
-
 import java.util.*;
 
 public class GameBoard {
